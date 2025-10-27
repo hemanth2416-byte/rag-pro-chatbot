@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+sentence-transformers
+faiss-gpu
+chromadb
+rank-bm25
+langchain
+llama-index
+transformers
+datasets
+streamlit
+tqdm
+

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# ChromaDB vector store
+vector_db/
+chroma_db/
+
+# Benchmark logs
+benchmarks/
+*.csv
+
+# Environment / API keys
+.env
+*.env
+
+# LangSmith logs
+langsmith/
+langchain/
